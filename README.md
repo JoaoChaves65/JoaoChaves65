@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:16a085&height=120&section=header&text=Seja+Bem+Vindo!&fontSize=50&fontColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:16a085&height=150&section=header&text=Seja+Bem+Vindo!&fontSize=45&fontAlignY=40&fontColor=FFFFFF"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1abc9c&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+João+Marcos+Silva+Chaves;Tenho+19+anos;Sou+de+Piripiri,+PI;Estudo+Ciência+da+Computação+na+UESPI;)](https://git.io/typing-svg)
 

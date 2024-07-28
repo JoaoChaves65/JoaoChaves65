@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:ffffff&height=120&section=header&text=Seja+Bem+Vindo!&fontSize=50&fontColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:16a085&height=120&section=header&text=Seja+Bem+Vindo!&fontSize=50&fontColor=FFFFFF"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E86C1&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+João+Marcos+Silva+Chaves;Tenho+19+anos;Sou+de+Piripiri,+PI;Estudo+Ciência+da+Computação+na+UESPI;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1abc9c&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+João+Marcos+Silva+Chaves;Tenho+19+anos;Sou+de+Piripiri,+PI;Estudo+Ciência+da+Computação+na+UESPI;)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoChaves65&show_icons=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=2E86C1&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de João Marcos Silva Chaves" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoChaves65&layout=compact&hide_border=true&title_color=2E86C1&text_color=2E86C1&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoChaves65&show_icons=true&count_private=true&hide_border=true&title_color=1abc9c&icon_color=1abc9c&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de João Marcos Silva Chaves" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoChaves65&layout=compact&hide_border=true&title_color=1abc9c&text_color=1abc9c&bg_color=0d1117" />
 </div>
 
 <br>
